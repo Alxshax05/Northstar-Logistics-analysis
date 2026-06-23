@@ -1,0 +1,5 @@
+The northstar logistics analytics project delivers an end-to-end engineering and anyltics pipeline intergrating Python, SQL within R,R analytics and MongoDB Atlas to evaluate logistics and delivery performance. 
+Using a dataset with information on customers orders, deliveries, complaints, drivers and vehicles, I first used Python to clean and organize the data.I turned it into features like delivery hours and late deliveries.
+Then I used a tool called SQLdf in R to look at how the operations were doing and what types of services were being used. R also helped me do detailed analysis of the customers orders, deliveries, complaints, drivers and vehicles.
+To show what modern NoSQL like MongoDB; I put the dataset with information on customers orders, deliveries, complaints, drivers and vehicles into MongoDB Atlas.
+There I used tools to perform on the customers orders, deliveries, complaints, drivers and vehicles data and made sure it was running fast by adding indexes on important fields like order ID and delivery status, from the customers orders, deliveries, complaints, drivers and vehicles.
